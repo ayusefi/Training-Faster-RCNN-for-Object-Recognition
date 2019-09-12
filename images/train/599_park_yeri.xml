@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>599_park_yeri.jpg</filename>
+	<path>/home/raclab/Desktop/models/research/object_detection/images/train/599_park_yeri.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>park</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>116</ymin>
+			<xmax>201</xmax>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+</annotation>

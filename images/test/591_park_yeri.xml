@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>591_park_yeri.jpg</filename>
+	<path>/home/raclab/Desktop/models/research/object_detection/images/test/591_park_yeri.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>park</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>117</ymin>
+			<xmax>203</xmax>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+</annotation>
